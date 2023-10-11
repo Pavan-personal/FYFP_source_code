@@ -67,7 +67,7 @@ let joinAccess = false
         jacElements.forEach((val) => {
             val.addEventListener('click', () => {
                 if (joinAccess == true) {
-                    window.location.href = 'subskratch.php'
+                    window.location.href = 'eventReg.php'
                 } else {
                     alert('Login to get access to events!!')
                 }
