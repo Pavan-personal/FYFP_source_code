@@ -16,7 +16,7 @@
             <span class="lgdec">Signin</span>
             <span class="lgdec idc itemp">Signup</span>
         </div>
-        <form action="sKratch.php" class="w-full flex flex-col items-center justify-center" method="post">
+        <form action="index.php" class="w-full flex flex-col items-center justify-center" method="post">
             <div class="username lsecns">
                 <div class="text-whitereq">
                     Username
@@ -127,7 +127,7 @@
                         </div>
                         <div class="mt-2">
                             Want to know more?
-                            <a class="learnmore underline text-blue-600 active:text-blue-800" href="footer.php">Learn more about us</a>
+                            <a class="learnmore underline text-blue-600 active:text-blue-800" href="gallery.php">Learn more about us</a>
                         </div>
                     </div>
                 </div>
